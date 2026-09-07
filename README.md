@@ -184,8 +184,6 @@ Areas of development include:
 
 * 🚀 Build impactful Electronics & Embedded Systems
 * 🤖 Develop practical AI/ML applications
-* 📡 Build intelligent IoT solutions
-* 🧠 Strengthen Machine Learning & Deep Learning skills
 * ⚡ Explore Edge AI and real-time analytics
 * 🌊 Develop advanced ocean-monitoring technologies
 * 🚁 Explore AI-powered autonomous systems
@@ -211,12 +209,3 @@ Areas of development include:
 ---
 
 ⭐ **Thanks for visiting my profile! Feel free to explore my repositories, collaborate on projects, and connect with me to build innovative hardware, IoT, and AI solutions together.**
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SaturnJ15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=SaturnJ15&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SaturnJ15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=SaturnJ15&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
